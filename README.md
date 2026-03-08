@@ -1,4 +1,3 @@
-<img align="right" width="150" heigth="150" src="https://user-images.githubusercontent.com/103906625/235822716-1a325ce2-eebc-4815-94c7-e4acf221fea4.png">
 <h1 align="center"> Hotel Luxury </h1>
 <h2 align="center"> Challenge ONE | Java | Back-end </h2>
 
