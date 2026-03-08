@@ -1,7 +1,6 @@
-<h1 align="center"> Hotel Luxury </h1>
-<h2 align="center"> Challenge ONE | Java | Back-end </h2>
+# Proyecto Hotel luxury
 
-<br>
+### Challenge ONE | Java | Back-end
 
 ## Este programa permite:
 - Sistema de autenticación de usuario para que solo usuarios pertenecientes al hotel consigan acceder al sistema;
@@ -10,8 +9,6 @@
 - Registrar, editar y eliminar datos de los huéspedes;
 - Calcular el valor de la reserva en base a la cantidades de días de la reserva y a una tasa diaria que puede ser asignada por ti y en la moneda local de tu país, por ejemplo si tenemos una reserva de 3 dias y el valor de nuestra diaria son 20$ debemos multiplicar esos 3 dias por el valor de la diaria, lo que serian 60$, todo esto deberá ser hecho automaticamente y mostrado al usuario antes de guardar la reserva;
 - Base de datos para almacenar todos los datos pedidos anteriormente.
-
-</br>
 
 # Proyecto 📂
 
