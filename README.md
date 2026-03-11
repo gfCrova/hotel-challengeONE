@@ -1,4 +1,4 @@
-# Proyecto Hotel luxury
+# Proyecto Hotel
 
 ### Challenge ONE | Java | Back-end
 
@@ -36,7 +36,7 @@
 
 ## 🖥️ Tecnologías Utilizadas:
 
-```Java``` - ```Intellij``` - ```Biblioteca JCalendar``` - ```MySql``` - ```c3p0``` - ```Plugin Scale```
+```Java``` - ```Intellij``` - ```java-swing``` - ```Biblioteca JCalendar``` - ```MySql``` - ```c3p0``` - ```Plugin Scale```
 
 # ⚠ Importante ⚠
 
